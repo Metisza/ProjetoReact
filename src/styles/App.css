@@ -14,3 +14,9 @@ a {
     text-decoration: none;
 }
 
+section#articles {
+    max-width: 1240px;
+    margin: 4rem auto;
+    padding: 0 2rem;
+}
+
